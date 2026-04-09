@@ -6,10 +6,7 @@
 ### 1. Gambarkan rangkaian schematic yang digunakan pada percobaan!
 
 **Jawaban:**  
-- Seven segment terhubung ke Arduino seperti percobaan 2A.
-- **Push button** dihubungkan antara **Pin 2** dan **GND** (jika menggunakan `INPUT_PULLUP`).
-- Jika tidak menggunakan pullup internal, butuh resistor eksternal 10kΩ ke VCC.
-- Saat button ditekan, Pin 2 terbaca LOW.
+<img src="img.png" alt="Schematic">
 
 ---
 
